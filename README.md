@@ -1,4 +1,8 @@
-👋 Hi there! I'm Vishal Kadian, an undergraduate student with a passion for web development.
+👋 Hey there !
+
+About me <hr>
+
+I'm Vishal Kadian, an undergraduate student with a passion for web development.
  I've dived deep into the world of web technologies and am now focused on expanding my skill set and improving my problem-solving abilities.
   I view learning as a continuous journey and am eager to explore new opportunities and challenges in the future.
 -   
